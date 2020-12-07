@@ -15,6 +15,6 @@
     - else
         - print out the number
 
-### odd_or_even_vlassifier.ipynb
+### odd_or_even_classifier.ipynb
 - Goal:
         - Train a neural network classifier to classify if an integer is odd or even.
